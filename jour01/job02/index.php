@@ -2,7 +2,6 @@
 <html lang="fr">
 
 <head>
-    <link rel="stylesheet" href="index.css" />
     <script src="script.js"></script>
 </head>
 
