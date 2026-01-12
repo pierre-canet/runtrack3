@@ -1,3 +1,1 @@
-function popupBasique(page, popupBasique, ) {
-            window.open(page);
-        }
+alert("Hello JS !")

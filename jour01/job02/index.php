@@ -7,7 +7,7 @@
 
 <body>
     <p>Bonjour</p>
-    <a href="javascript:popupBasique('popup.html')">Ouverture popup basique</a>
+
 </body>
 
 </html>
