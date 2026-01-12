@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+body.konami {
+  background-color: #4b2e83;
+  color: white;
+}
+
+body.konami::before {
+  content: "Bienvenue à La Plateforme_";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  font-size: 3rem;
+  font-weight: bold;
+  color: #ff4d8d;
+}
