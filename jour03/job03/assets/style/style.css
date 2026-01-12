@@ -1,0 +1,15 @@
+#container {
+  display: flex;
+  margin-top: 20px;
+}
+
+#container img {
+  width: 100px;
+  cursor: pointer;
+}
+
+#message {
+  margin-top: 20px;
+  font-weight: bold;
+  color: green;
+}
